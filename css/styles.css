@@ -7,6 +7,18 @@ body {
     letter-spacing: 0.02em;
 }
 
+.site-title {
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    color: #2E2F42;
+}
+
+.part-site-title {
+    color: #4D5AE5;
+}
+
 .header-link {
     color: #2E2F42;
     font-weight: 500;
@@ -52,12 +64,16 @@ body {
     background-color: #E5E5E5;
 }
 
-.color-title-h3 {
+.title-h3 {
     color: #2E2F42;
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
+}
+
+.paragraph {
+    
 }
 
 .title-h2 {
@@ -76,7 +92,22 @@ body {
     background-color: #FFFFFF;
 }
 
+.bgr-portfolio {
+    color: #E5E5E5;
+}
+
 .bgr-footer {
     background-color: #2E2F42;
 }
 
+.site-title-footer {
+    color: #F4F4FD;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+}
+
+.paragraph-footer {
+    color: #E7E9FC;
+}
