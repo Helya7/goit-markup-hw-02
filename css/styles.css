@@ -72,10 +72,6 @@ body {
     letter-spacing: 0.02em;
 }
 
-.paragraph {
-    
-}
-
 .title-h2 {
     color: #2E2F42;
     font-family: 'Roboto';
@@ -103,6 +99,11 @@ body {
     background-color: #E7E9FC;
     border: 1px solid #E7E9FC;
     border-radius: 4px;
+}
+
+.paragraph {
+    color: #434455;
+    
 }
 
 .bgr-footer {
