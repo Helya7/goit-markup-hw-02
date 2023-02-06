@@ -103,7 +103,10 @@ body {
 
 .paragraph {
     color: #434455;
-    
+}
+
+.img-filter {
+    background-color: #FFFFFF;
 }
 
 .bgr-footer {
