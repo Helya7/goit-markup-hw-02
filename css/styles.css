@@ -1,3 +1,54 @@
 body {
     color: #434455;
+    font-family: 'Roboto';
 }
+
+.header-link {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.contact {
+    color: #434455;
+    font-style: normal;
+}
+
+.first-section {
+    background-color: #2E2F42;
+}
+
+.title {
+    color: #FFFFFF;
+}
+
+.button-of-order {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.second-section {
+    background-color: #E5E5E5;
+}
+
+.color-title-h3 {
+    color: #2E2F42;
+}
+
+.title-thrid-section {
+    color: #2E2F42;
+}
+
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.bgr-footer {
+    background-color: #2E2F42;
+}
+
