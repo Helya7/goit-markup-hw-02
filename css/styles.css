@@ -1,6 +1,10 @@
 body {
     color: #434455;
     font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
 }
 
 .header-link {
@@ -8,6 +12,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
+    text-decoration: none;
 }
 
 .header {
@@ -17,6 +22,7 @@ body {
 .contact {
     color: #434455;
     font-style: normal;
+    text-decoration: none;
 }
 
 .first-section {
@@ -25,27 +31,49 @@ body {
 
 .title {
     color: #FFFFFF;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 0.02em;
 }
 
 .button-of-order {
     background-color: #4D5AE5;
     color: #FFFFFF;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
 }
 
-.second-section {
+.second-and-thrid-section {
     background-color: #E5E5E5;
 }
 
 .color-title-h3 {
     color: #2E2F42;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
 }
 
-.title-thrid-section {
+.title-h2 {
     color: #2E2F42;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.02em;
 }
 
-.third-section {
+.fourth-section {
     background-color: #F4F4FD;
+}
+
+.img-team {
+    background-color: #FFFFFF;
 }
 
 .bgr-footer {
